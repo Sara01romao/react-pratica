@@ -3,6 +3,8 @@ import { BrowserRouter, Link, Route, Routes } from 'react-router-dom'
 import { Home } from './pages/home'
 import { Exer1Horas } from './pages/Horas/1-exerc-horas'
 
+import './App.css'
+
 function App() {
 
 
