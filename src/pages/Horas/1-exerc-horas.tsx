@@ -28,6 +28,16 @@ export const Exer1Horas = () =>{
          <div className="text-9xl">{fullTime}</div>
 
          <div className="text-5xl font-bold">{greeting} </div>
+
+        {/* 
+         <div className="text-5xl font-bold">
+            {hour >= 0 && hour < 12 && "Bom dia 🌞"}
+            {hour >= 12 && hour < 18 && "Boa Tarde 🌞"}
+            {hour >= 18 && hour <= 23 && "Boa Tarde 🌞"}
+         </div> */}
+          
+
+
       </div>
   
   
