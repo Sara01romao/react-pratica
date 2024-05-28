@@ -1,6 +1,6 @@
 import { Vidas } from "../../components/IconeCoracao"
 
-export const Exer2Horas = () =>{
+export const Exer2Coracao = () =>{
 
   
     return(
